@@ -5,6 +5,7 @@ date:   2017-07-22 06:22:02 -0700
 categories: bitcoin
 permalink: /intro-bitcoin
 ---
+## Từ đồng tiền vàng đến đồng tiền điện tử
 
 "Một phiên bản tiền điện tử giao dịch ngang hàng thuần tuý sẽ cho phép
 thanh toán online xảy ra trực tiếp giữa người mua và người bán mà 
