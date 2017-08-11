@@ -7,7 +7,7 @@ permalink: /intro-bitcoin
 ---
 ## Từ đồng tiền vàng đến đồng tiền điện tử
 
-Từ thủa xa xưa, con người đã biết đổi chác với nhau. Đổi cái mà họ có để lấy cái họ muốn. Chẳng hạn ông A đổi 1 con dê để lấy 3 bao lúa mì từ ông B, thế là cả hai đều có thứ mà họ cần. Tuy nhiên việc đổi chác nhiều khi không thể thực hiện được do phải tốn quá nhiều công sức và thời gian, hoặc đơn giản là không tìm ra người có cái họ cần và lại đang cần cái mà họ có.
+Từ thủa xa xưa, con người đã biết đổi chác với nhau. Đổi cái mà họ có để lấy cái họ muốn. Chẳng hạn ông A có dê và cần lúa mì, ông B có lúa mì và cần dê, 2 ông đồng ý đổi 1 con dê lấy 3 bao lúa mì, thế là cả hai đều có thứ mà họ cần. Tuy nhiên việc đổi chác nhiều khi không thể thực hiện được do phải tốn quá nhiều công sức và thời gian, hoặc đơn giản là không tìm ra người có cái họ cần và lại đang cần cái mà họ có.
 
 Một số người nhận ra rằng ai cũng thích vàng, vì nó có giá trị cao và rất dễ làm đồ trang sức, hơn nữa nó nhỏ gọn nên rất dễ trao đổi và cất giữ. Thế là người ta bắt đầu dùng vàng để đổi chác. Đồng tiền vàng ra đời.
 
