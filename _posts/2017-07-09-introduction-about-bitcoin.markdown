@@ -11,6 +11,12 @@ Từ thủa xa xưa, con người đã biết đổi chác với nhau. Đổi c�
 
 Một số người nhận ra rằng ai cũng thích vàng, vì nó có giá trị cao và rất dễ làm đồ trang sức, hơn nữa nó nhỏ gọn nên rất dễ trao đổi và cất giữ. Thế là người ta bắt đầu dùng vàng để đổi chác. Đồng tiền vàng ra đời.
 
+Tiền giấy ra đời như thế nào?
+
+Thanh toán trực tuyến và credit cards
+
+Một thứ hoạt động hoàn hảo và nhịp nhàng, cho tới khi...
+
 "Một phiên bản tiền điện tử giao dịch ngang hàng thuần tuý sẽ cho phép
 thanh toán online xảy ra trực tiếp giữa người mua và người bán mà 
 không phải thông qua bất kỳ tổ chức tài chính nào."
