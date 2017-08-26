@@ -13,11 +13,11 @@ Họ nhận ra rằng giá mà có thứ gì đó mà ai cũng muốn và mọi 
 
 Thế là mọi người, ai ai cũng dùng đồng tiền vàng để đổi chác, mua bán. Kinh tế vì thế phát triển nhanh chóng và bùng nổ! 
 
-Lúc này có nhiều người dành rất toàn bộ thời gian chỉ để làm những việc "đổi chác". Họ mang theo nhiều đồng vàng và những vật/đồ vật để đổi chác mà bây giờ chúng ta gọi là hàng hoá, và càng ngày họ càng đi xa hơn. Tầng lớp thương gia xuất hiện. 
+Lúc này có nhiều người dành rất toàn bộ thời gian chỉ để làm những việc "đổi chác". Họ mang theo nhiều đồng vàng và những vật/đồ vật để đổi chác mà bây giờ chúng ta gọi là hàng hoá, càng ngày họ càng đi xa hơn. Tầng lớp thương gia xuất hiện.
 
-Tiền vàng bắt đầu bộc lộ rõ những nhược điểm. Tiền vàng không thể mang theo quá nhiều vì vẫn còn quá nặng. Hơn nữa là do khan hiếm, nhiều khi không có đủ số đồng vàng để đổi chác. Lúc này các ông vua, thủ hiến của một vùng đất là những người giàu có với rất nhiều vàng và tài sản cũng là những người cần nhiều thứ hàng hoá đề nghị với các thương gia la họ sẽ trả bằng những tờ giấy nợ có ghi số đồng vàng trị giá bằng số hàng hoá mà họ mua. Bất cứ khi nào cần những đồng tiền vàng các thương gia có thể đến và đưa lại những tờ giấy nợ để đổi lấy số đồng tiền vàng ghi trong giấy nợ. Các thương gia đồng ý vì họ không còn phải mang theo những đồng tiền vàng nặng nề nữa.
+Tiền vàng bắt đầu bộc lộ rõ những nhược điểm. Tiền vàng không thể mang theo quá nhiều vì vẫn còn quá nặng. Hơn nữa là do khan hiếm, nhiều khi không có đủ số đồng vàng để đổi chác. Vào khoảng thế kỷ thứ 7 một trong các ông vua, thủ hiến của một vùng đất là người rất giàu có với vô số vàng và tài sản, cũng là người cần nhiều thứ hàng hoá, đề nghị với các thương gia là sẽ trả bằng những tờ giấy có ghi số đồng vàng trị giá bằng số hàng hoá sẽ mua. Bất cứ khi nào cần các thương gia có thể quay lại thủ phủ, đưa lại những tờ giấy này để đổi lấy số đồng tiền vàng đã ghi trong đó. Các thương gia đồng ý. Vì nhà vua mua rất nhiều thứ từ các thương gia, nên các giấy ghi nợ lan rộng. Các thương gia nhận thấy họ có thể dùng nó để trao đổi, mua bán hàng hoá trực tiếp từ các thương gia khác. Những ông vua của các nước khác cũng nhanh chóng áp dụng cách ghi giấy nợ kiểu này. Những giấy nợ do các ông vua này ban hành là một dạng thức IOU paper bảo chứng bởi các ông vua hoặc bởi chính quyền phát hành chúng.
 
-Tiền giấy ra đời như thế nào? IOU = paper money
+...
 
 Thanh toán trực tuyến và credit cards
 
