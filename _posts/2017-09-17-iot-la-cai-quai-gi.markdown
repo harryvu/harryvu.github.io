@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "IOT là cái quái gì?"
+title:  "IoT Là Cái Quái Gì Và Nó Ảnh Hưởng Đến Chúng Ta Thế Nào?"
 date:   2017-09-17 09:22:02 -0700
 categories: bitcoin
-permalink: /intro-bitcoin
+permalink: /iot-la-cai-quai-gi
 ---
-## IOT Là Cái Quái Gì Và Nó Ảnh Hưởng Đến Chúng Ta Thế Nào?
+## IoT Là Cái Quái Gì?
 
-IOT là chữ viết tắt của "the Internet Of Things" mà nhiều người dịch là Internet Vạn Vật hoặc Kết Nối Vạn Vật, hoặc là Internet Kết Nối Vạn Vật.
+IoT là chữ viết tắt của "The Internet Of Things" mà nhiều người dịch là Internet Vạn Vật hoặc Kết Nối Vạn Vật, hoặc là Internet Kết Nối Vạn Vật.
 
 Với cách dịch Internet Kết Nối Vạn Vật, người đọc có thể hiểu nôm na là mọi thứ sẽ kết nối với nhau thông qua Internet. Cách hiểu này không hoàn toàn chính xác hoặc không phản ánh được cốt lõi của vấn đề.
 
