@@ -29,23 +29,22 @@ Khi Internet ra đời chúng ta cũng không hiểu nó là gì, và cũng đã
 
 > "Thiên nhiên là cội nguồn của tất cả kiến thức. Nó có những logic và luật riêng, nó sẽ chẳng gây hệ quả mà không có nguyên nhân cũng như sẽ chẳng có phát minh nào của nó mà không cần thiết." ~ Leonardo da Vinci
 
-### Sự Phát Minh Ra WEB?
+### Sự Phát Minh Ra WEB
 
-Sau khi tốt nghiệp trường Đại học Oxford vào cuối những năm 80, Tim Berners-Lee trở thành một kỹ sư lập trình tại CERN, một phòng thí nghiệm vật lý phân tử gần Geneva,Thuỵ Điển. Các nhà bác học khắp thế giới tới đây để dùng máy tăng tốc hạt nhân (lớn nhất thế giới), Berners-Lee nhanh chóng nhận ra là họ gặp trở ngại trong việc chia sẻ thông tin với nhau. 
+Sau khi tốt nghiệp trường Đại học Oxford vào cuối những năm 80, Tim Berners-Lee trở thành một kỹ sư lập trình tại CERN, một phòng thí nghiệm vật lý phân tử gần Geneva, Thuỵ Điển. Các nhà bác học khắp thế giới tới đây để dùng máy tăng tốc hạt nhân (lớn nhất thế giới), Berners-Lee nhanh chóng nhận ra là họ gặp trở ngại trong việc chia sẻ thông tin với nhau.
 
-> "Vào thời đó, có những thông tin khác nhau trên những máy tính khác nhau, để lấy đươc chúng bạn phải log on vào từng máy khác nhau, đôi khi bạn phải học cách sử dụng những chương trình khác nhau trên mỗi máy tính đó. Nhiều khi bạn thấy dễ hơn là hỏi họ trực tiếp khi gặp họ đang uống cafe...", Tim nói.
+> "Vào thời đó, có những thông tin khác nhau trên những máy tính khác nhau, để lấy được chúng bạn phải log on vào từng máy khác nhau, đôi khi bạn phải học cách sử dụng những chương trình khác nhau trên mỗi máy tính đó. Nhiều khi bạn thấy dễ hơn là hỏi họ trực tiếp khi gặp họ đang uống cafe...", Tim nói.
 
-In March 1989, Tim laid out his vision for what would become the web in a document called “Information Management: A Proposal”. Believe it or not, Tim’s initial proposal was not immediately accepted. In fact, his boss at the time, Mike Sendall, noted the words “Vague but exciting” on the cover. The web was never an official CERN project, but Mike managed to give Tim time to work on it in September 1990. He began work using a NeXT computer, one of Steve Jobs’ early products.
+Tim nghĩ là anh ta có cách giải cho vấn đề. Lúc này hàng triệu máy tính đã nối mạng với nhau thông qua một mạng lưới internet đang phát triển nhanh chóng và Berners-Lee nhận thức rằng họ có thể chia sẻ thông tin với nhau bằng việc khai thác một kỹ thuật mới nổi lên gọi là hypertext (phát minh bởi Ted Nelson, năm 1963).
 
-By October of 1990, Tim had written the three fundamental technologies that remain the foundation of today’s web (and which you may have seen appear on parts of your web browser):
+Vào tháng 3 năm 1989, Tim gửi đề cử “Information Management: A Proposal” tới xếp của anh ta, Mike Sendall. Mặc dù không được chấp thuận là dự án chính thức của CERN, nhưng Tim vẫn được phân bổ làm việc với dự án này. Vào tháng 10 năm 1990, Tim đã viết được 3 kỹ thuật cốt lõi:
+- HTML: HyperText Markup Language
+- URI: Uniform Resource Identifier. Một loại "địa chỉ", là duy nhất cho mỗi tài nguyên trên Web. Nó cũng thường được gọi là URL.
+- HyperText Transfer Protocol. Cho phép truy xuất các tài liệu liên kết từ mạng lưới Web.
 
-HTML: HyperText Markup Language. The markup (formatting) language for the web.
-URI: Uniform Resource Identifier. A kind of “address” that is unique and used to identify to each resource on the web. It is also commonly called a URL.
-HTTP: Hypertext Transfer Protocol. Allows for the retrieval of linked resources from across the web.
+Chúng chính là nền tảng cho Web ngày nay.
 
-Vào tháng 3 năm 1989, Tim gửi đề cử “Information Management: A Proposal” tới xếp của anh ta, Mike Sendall. Vào tháng 10 năm 1990, Tim đã viết được 3 kỹ thuật nền tảng là cái mà chúng ta
-
-Khi phát minh ra Web, Tim Berners-Lee muốn giải một vấn đề duy nhất là chia sẻ tài liệu giữa các nhà nghiên cứu với nhau. 
+Khi phát minh ra Web, Tim Berners-Lee muốn giải một vấn đề duy nhất là chia sẻ tài liệu giữa các nhà nghiên cứu.
 
 
 
