@@ -31,20 +31,26 @@ Khi Internet ra đời chúng ta cũng không hiểu nó là gì, và cũng đã
 
 ### Sự Phát Minh Ra WEB
 
-Sau khi tốt nghiệp trường Đại học Oxford vào cuối những năm 80, Tim Berners-Lee trở thành một kỹ sư lập trình tại CERN, một phòng thí nghiệm vật lý phân tử gần Geneva, Thuỵ Điển. Các nhà bác học khắp thế giới tới đây để dùng máy tăng tốc hạt nhân (lớn nhất thế giới), Berners-Lee nhanh chóng nhận ra là họ gặp trở ngại trong việc chia sẻ thông tin với nhau.
+Sau khi tốt nghiệp trường Đại học Oxford, Tim Berners-Lee trở thành một kỹ sư lập trình tại CERN, một phòng thí nghiệm vật lý phân tử gần Geneva, Thuỵ Điển. Các nhà bác học khắp thế giới tới đây để dùng máy tăng tốc hạt nhân (lớn nhất thế giới), Berners-Lee nhanh chóng nhận ra là họ gặp trở ngại trong việc chia sẻ thông tin với nhau.
 
 > "Vào thời đó, có những thông tin khác nhau trên những máy tính khác nhau, để lấy được chúng bạn phải log on vào từng máy khác nhau, đôi khi bạn phải học cách sử dụng những chương trình khác nhau trên mỗi máy tính đó. Nhiều khi bạn thấy dễ hơn là hỏi họ trực tiếp khi gặp họ đang uống cafe...", Tim nói.
 
-Tim nghĩ là anh ta có cách giải cho vấn đề. Lúc này hàng triệu máy tính đã nối mạng với nhau thông qua một mạng lưới internet đang phát triển nhanh chóng và Berners-Lee nhận thức rằng họ có thể chia sẻ thông tin với nhau bằng việc khai thác một kỹ thuật mới nổi lên gọi là hypertext (phát minh bởi Ted Nelson, năm 1963).
+Tim nghĩ là anh ta có cách giải cho vấn đề. Lúc này hàng triệu máy tính đã nối mạng với nhau thông qua một mạng lưới internet đang phát triển nhanh chóng và Berners-Lee nhận thức rằng họ có thể chia sẻ thông tin với nhau bằng việc khai thác một kỹ thuật mới nổi lên gọi là hypertext (phát minh bởi Ted Nelson, năm 1963.
 
 Vào tháng 3 năm 1989, Tim gửi đề cử “Information Management: A Proposal” tới xếp của anh ta, Mike Sendall. Mặc dù không được chấp thuận là dự án chính thức của CERN, nhưng Tim vẫn được phân bổ làm việc với dự án này. Vào tháng 10 năm 1990, Tim đã viết được 3 kỹ thuật cốt lõi:
-- HTML: HyperText Markup Language
-- URI: Uniform Resource Identifier. Một loại "địa chỉ", là duy nhất cho mỗi tài nguyên trên Web. Nó cũng thường được gọi là URL.
-- HyperText Transfer Protocol. Cho phép truy xuất các tài liệu liên kết từ mạng lưới Web.
+
+- HTML: HyperText Markup Language là ngôn ngữ đánh dấu văn bản
+- URI: Uniform Resource Identifier. Một loại "địa chỉ", duy nhất cho mỗi tài nguyên trên Web. Nó cũng thường được gọi là URL (Uniform Resource Locator).
+- HyperText Transfer Protocol. Là giao thức để truyền tải hypertext, cho phép truy xuất các tài liệu HTML liên kết từ mạng lưới Web.
 
 Chúng chính là nền tảng cho Web ngày nay.
 
-Khi phát minh ra Web, Tim Berners-Lee muốn giải một vấn đề duy nhất là chia sẻ tài liệu giữa các nhà nghiên cứu.
+Khi phát minh ra Web, Tim Berners-Lee muốn giải một vấn đề duy nhất là chia sẻ tài liệu giữa các nhà nghiên cứu. Và anh ta đã phát minh ra Web (chứ không phải Internet như nhiều người vẫn nghĩ). Web chỉ có thể hoạt động được nếu có internet, nhưng chính phát minh đó làm cho mạng internet và Web bùng nổ! Kể từ đó Web vẫn tiếp tục không ngừng phát triển và mang lại biết bao nhiêu lợi ích cho loài người. Cũng chính vì phát minh này mà Nữ Hoàng Anh đã phong tước Hiệp Sĩ cho ông vào năm 2004, Sir Tim Berners-Lee.
+
+Bây giờ có lẽ bạn đã hiểu rõ hơn một chút về định nghĩa về IoT của IBM. Nếu Internet không phải là Web thì nó là gì, có thể bạn đang hỏi?
+
+Nếu 
+
 
 
 
