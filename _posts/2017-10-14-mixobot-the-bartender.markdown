@@ -10,4 +10,6 @@ Mixobot là máy pha cocktail có thể pha chế nhiều loại cocktail đa d�
 
 Hình dưới đây là phác thảo thiết kế sơ khởi của nó.
 
-![conceptual-design](/assets/images/Mixo_Conceptual_Design_Web.jpg){:class="img-responsive"}
+{% include image name="Mixo_Conceptual_Design_Web.jpg" caption="Sharing my blog on LinkedIn" %}
+
+Ta thấy nó gồm có những thành phần sau:
