@@ -183,7 +183,7 @@ a,
 }
 
 ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+li	{ list-style-position:inside; padding: 10px; }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
@@ -281,6 +281,8 @@ p.small {
 blockquote {
 	padding-left: 15px;
 	border-left: 3px solid #eee;
+	font: italic 19px/1.3em Georgia,serif;
+	color: #999;
 }
 
 hr {

@@ -16,8 +16,7 @@
 title: Harry's Cool Blog
 email: harryvu@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Những bài viết trong blog này sẽ bao gồm đủ mọi loại chủ đề
-  mà tác giả đang quan tâm. Tất cả các bài viết đều có một điểm chung là COOL. 
+  Những bài viết trong blog này sẽ bao gồm đủ mọi loại chủ đề, nhưng tập trung nhiều vào lĩnh vực kỹ thuật. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: harryvu

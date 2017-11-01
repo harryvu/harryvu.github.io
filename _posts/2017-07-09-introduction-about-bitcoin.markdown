@@ -23,16 +23,15 @@ Thanh toán trực tuyến và credit cards
 
 Một thứ hoạt động hoàn hảo và nhịp nhàng, cho tới khi...
 
-"Một phiên bản tiền điện tử giao dịch ngang hàng thuần tuý sẽ cho phép
+> "Một phiên bản tiền điện tử giao dịch ngang hàng thuần tuý sẽ cho phép
 thanh toán online xảy ra trực tiếp giữa người mua và người bán mà 
 không phải thông qua bất kỳ tổ chức tài chính nào."
 
-"Chữ ký điện tử đóng góp một phần cho giải pháp, nhưng chưa đủ vì những
+>"Chữ ký điện tử đóng góp một phần cho giải pháp, nhưng chưa đủ vì những
 giải pháp hiện nay vẫn đòi hỏi phải có một bên tin cậy thứ ba
 để ngăn chặn việc sử dụng đồng tiền điện tử nhiều hơn một lần."
 
-"Chúng tôi đề cử một hệ thống giao dịch điện tử không dựa vào niềm tin..."
-
+>"Chúng tôi đề cử một hệ thống giao dịch điện tử không dựa vào niềm tin..."
 ~Satoshi Nakamoto (Người sáng lập ra Bitcoin)
 
 Trên đây là một số trích dẫn trong "Bitcoin: A Peer-to-Peer Electronic Cash System",
