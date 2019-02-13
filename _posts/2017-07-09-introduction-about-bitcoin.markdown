@@ -4,6 +4,7 @@ title:  "Giới thiệu về Bitcoin"
 date:   2017-07-22 06:22:02 -0700
 categories: bitcoin
 permalink: /intro-bitcoin
+published: false
 ---
 ## Từ đồng tiền vàng đến đồng tiền điện tử
 

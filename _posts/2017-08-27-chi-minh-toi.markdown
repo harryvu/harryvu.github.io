@@ -3,7 +3,7 @@ layout: post
 title:  "Chi mot minh Toi"
 date:   2017-07-22 06:22:02 -0700
 categories: jekyll update
-permalink: /welcome-to-harrys-blog
+permalink: /chiminhtoi
 published: false
 ---
 
