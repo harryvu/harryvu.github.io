@@ -16,11 +16,13 @@
 title: Harry's Cool Blog
 email: harryvu@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Những bài viết trong blog này sẽ bao gồm đủ mọi loại chủ đề
-  mà tác giả đang quan tâm. Tất cả các bài viết đều có một điểm chung là COOL. 
+  I code, write, learn and read from many sources. This personal blog contains 
+  a collection of interesting articles, tips, tricks that span from many subjects or topics. 
+  I put them here first for myself to refenrence back from time to time
+  and hopefully will help others.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: harryvu
+twitter_username: @vanvatketnoi
 github_username:  harryvu
 # Build settings
 markdown: kramdown

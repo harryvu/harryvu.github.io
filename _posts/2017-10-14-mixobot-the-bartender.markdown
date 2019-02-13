@@ -2,8 +2,8 @@
 layout: post
 title:  "Mixobot - The Bartenter"
 date:   2017-10-14 10:40:02 -0700
-categories: jekyll update
-permalink: /mixobot-the-bartender
+categories: DIY
+permalink: /:categories/mixobot-the-bartender
 ---
 ## Phác Thảo Thiết Kế
 Mixobot là máy pha cocktail có thể pha chế nhiều loại cocktail đa dạng chỉ bằng cách ra lệnh bằng giọng nói (voice commands).
