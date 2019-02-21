@@ -61,12 +61,25 @@ Chà chà nhức đầu quá... Lý thuyết như vậy có lẽ là đủ rồi
 
 Mặc dù IoT vẫn chỉ mới là hiện tượng nhưng sự lan rộng nhanh chóng, sự thích ứng với đủ mọi loại lĩnh vực của IoT trong cuộc sống đã làm nhiều người sửng sốt!
 
-1.	Nhà Thông Minh / (smart home)
-2.	Wearables
-3.	Smart city
-4.	Smart grids
-5.	Industrial internet
-6.	Connected car
+1.	Nhà Thông Minh / (smart home): 
+- Khóa thông minh: giúp biết trạng thái đóng mở các cửa ra vào nhà, cửa garage...; cho bạn bè mã số để mở cửa cho dù bạn ở bất cứ nơi đâu!
+
+- Bóng đèn thông minh: tự động bật tắt và điều chỉnh độ sáng phù hợp cho từng hoàn cảnh theo lịch đinh sẵn hoặc ra lênh bằng giọng nói.
+
+- Hệ thống tưới cỏ tự động tùy thuộc vào thời tiết.
+
+2.	Wearables:
+- Smart watch: Apple Watch, Fitbit, 
+- Smart shoes:
+- 
+3.	Smart city: Songdo, Singapore, Barcelona, London, San Francisco, Oslo...
+4.	Smart grids: mang luoi dien thong minh
+5.	Industrial internet: 
+- https://www.wired.co.uk/article/inside-the-industrial-internet-of-things
+- https://www.ge.com/digital/blog/everything-you-need-know-about-industrial-internet-things
+6.	Connected car:
+- https://www.youtube.com/watch?v=D5BXm1HXk3Y
+- https://youtu.be/TpZ2LK4VBDQ
 7.	Connected health
 8.	Smart retail
 9.	Smart supply chain
