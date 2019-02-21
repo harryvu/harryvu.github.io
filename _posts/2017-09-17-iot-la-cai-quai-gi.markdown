@@ -57,7 +57,7 @@ Bây giờ có lẽ bạn đã hiểu rõ hơn tại sao định nghĩa IoT củ
 
 "Internet là một hệ thống toàn cầu các mạng máy tính, chúng dùng bộ giao thức TCP/IP để liên kết các máy tính và thiết bị khắp thế giới. Nó là một mạng của các mạng bao gồm các mạng khác nhau: mạng riêng tư, mạng công cộng, mạng hàn lâm, mạng thương mại, hoặc mạng chính phủ, và chúng có quy mô từ địa phương tới toàn cầu, chúng được liên kết bởi các loại thiết bị điện tử đa dạng, bằng các kỹ thuật kết nối khác nhau như dùng cáp mạng, dung phương thức không dây (wireless, 3G/4G/5G, ZigBee, Bluetooth, ZWWave, , hoặc dùng cáp quang. Mạng Internet truyền tải vô số các tài nguyên và các dịch vụ/ứng dụng đa dạng của Web (WWW), như các siêu văn bản, điện thư, các cuộc điện đàm, chia sẻ các file dữ liệu..." Nguồn: Wikipedia
 
-còn tiếp...
+Chà chà nhức đầu quá...
 
 
 
